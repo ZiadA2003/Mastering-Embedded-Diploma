@@ -1,0 +1,16 @@
+/*
+ * main.c
+ *
+ *  Created on: Jul 2, 2024
+ *      Author: ziada
+ */
+
+#include "stdio.h"
+#include "string.h"
+
+int main(){
+	char text[100];
+	printf("Enter a string: ");
+	gets(text);
+	return 0;
+}

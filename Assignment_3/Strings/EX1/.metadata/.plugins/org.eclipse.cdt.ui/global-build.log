@@ -1,0 +1,29 @@
+Info: Nothing to build for EX1
+22:54:01 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX1.exe main.o 
+22:54:57 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX1.exe main.o 
+22:55:36 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX1.exe main.o 
+22:56:41 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX1.exe main.o 
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+23:02:33 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX1.exe main.o 

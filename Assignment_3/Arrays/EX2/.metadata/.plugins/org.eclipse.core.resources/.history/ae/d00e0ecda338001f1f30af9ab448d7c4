@@ -1,0 +1,27 @@
+/*
+ * main.c
+ *
+ *  Created on: Jul 2, 2024
+ *      Author: ziada
+ */
+
+/*
+ * main.c
+ *
+ *  Created on: Jul 2, 2024
+ *      Author: ziada
+ */
+
+#include "stdio.h"
+
+int main(){
+	printf("Enter the numbers of data: ");
+	fflush(stdout);
+	int n;
+	scanf("%d", &n);
+	float array[n];
+	array[0][0] = 20;
+	printf("%f", array[0][0]);
+	return 0;
+}
+

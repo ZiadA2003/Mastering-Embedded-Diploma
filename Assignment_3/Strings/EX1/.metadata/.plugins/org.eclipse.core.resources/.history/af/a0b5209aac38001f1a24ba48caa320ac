@@ -1,0 +1,19 @@
+/*
+ * main.c
+ *
+ *  Created on: Jul 2, 2024
+ *      Author: ziada
+ */
+
+#include "stdio.h"
+
+int main(){
+	char text[100], character;
+	printf("Enter a string: ");
+	fflush(stdout);
+	scanf("%s", text);
+	printf("Enter a character to find frequency: ");
+	fflush(stdout);
+	scanf("%c", &character);
+	return 0;
+}

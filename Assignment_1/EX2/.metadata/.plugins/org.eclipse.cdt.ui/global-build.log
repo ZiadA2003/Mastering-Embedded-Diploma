@@ -1,0 +1,16 @@
+20:38:57 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc: error: ..\main.c: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+20:39:00 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc: error: ..\main.c: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+20:39:20 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX2.exe main.o 
