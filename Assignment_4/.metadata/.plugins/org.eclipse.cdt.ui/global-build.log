@@ -1,0 +1,54 @@
+21:58:51 **** Incremental Build of configuration Debug for project Assignment_4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'factorial':
+..\main.c:33:25: warning: operation on 'n' may be undefined [-Wsequence-point]
+   return (n * factorial(--n));
+                         ^~~
+..\main.c: In function 'main':
+..\main.c:68:2: warning: 'str' is used uninitialized in this function [-Wuninitialized]
+  gets(str);
+  ^~~~~~~~~
+gcc -o Assignment_4.exe main.o 
+Info: Nothing to build for Assignment_4
+21:59:35 **** Incremental Build of configuration Debug for project Assignment_4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'factorial':
+..\main.c:33:25: warning: operation on 'n' may be undefined [-Wsequence-point]
+   return (n * factorial(--n));
+                         ^~~
+..\main.c: In function 'main':
+..\main.c:68:2: warning: 'str' is used uninitialized in this function [-Wuninitialized]
+  gets(str);
+  ^~~~~~~~~
+gcc -o Assignment_4.exe main.o 
+21:59:58 **** Incremental Build of configuration Debug for project Assignment_4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'factorial':
+..\main.c:33:25: warning: operation on 'n' may be undefined [-Wsequence-point]
+   return (n * factorial(--n));
+                         ^~~
+gcc -o Assignment_4.exe main.o 
+Info: Nothing to build for Assignment_4
+22:14:13 **** Rebuild of configuration Debug for project Assignment_4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'factorial':
+..\main.c:33:25: warning: operation on 'n' may be undefined [-Wsequence-point]
+   return (n * factorial(--n));
+                         ^~~
+..\main.c: In function 'main':
+..\main.c:90:2: warning: 'index' is used uninitialized in this function [-Wuninitialized]
+  printf("%d^%d = %d", num, index, pwr(num, index));
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -o Assignment_4.exe main.o 
+22:14:54 **** Incremental Build of configuration Debug for project Assignment_4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'factorial':
+..\main.c:33:25: warning: operation on 'n' may be undefined [-Wsequence-point]
+   return (n * factorial(--n));
+                         ^~~
+gcc -o Assignment_4.exe main.o 
